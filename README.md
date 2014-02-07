@@ -25,3 +25,7 @@ And add your own breakpoint:
     };
 
     $('table').mobileTable(args);
+
+## Demo
+
+A demo is available on [CodePen](http://codepen.io/graygilmore/full/EnuoL).
